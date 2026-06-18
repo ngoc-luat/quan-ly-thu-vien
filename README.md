@@ -149,8 +149,6 @@ Xem file `Activity_Diagram_CRUD_Sach.svg` đính kèm.
 
 ## 👤 Thành viên
 
-| Thành viên | Đối tượng phụ trách |
-|------------|---------------------|
-| Sinh viên A (Bạn) | **Sách (Book)** |
-| Sinh viên B | Độc Giả |
-| Sinh viên C | Mượn Sách |
+|     Thành viên   | Đối tượng phụ trách |
+|------------------|---------------------|
+| nguyễn ngoc luật |         Sách        |
